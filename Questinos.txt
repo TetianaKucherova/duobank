@@ -1,0 +1,7 @@
+Hi, Tatiana is here! I created this .txt file for practicing pushing
+and pulling. also, I have created my own branch in an order to make some
+changes without affecting the original code.
+Whoever is reading this, I hope you have an amazing day :)
+
+Best regards,
+Tatiana K
